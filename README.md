@@ -35,5 +35,5 @@ facemask.camera_mask(1,0,"outputfile.avi","maskfile_used.jpg") # 1 represents 1 
 
 [![Working Demonstration](https://github.com/mr-ravin/Face-Anonymizer/blob/master/maskedoutput.jpg)](https://github.com/mr-ravin/facemask/blob/master/maskedoutput.jpg)
 
-### Note: Working on improving performane on videos, In videos it skip some frames for applying mask, Will fix it soon...
-### And while processing Videos, it loss audio sound of Video, as currently I am using opencv only, to retain visual information...Working on it.
+### Note: In videos it skip some frames for applying mask.
+### And while processing Videos, it loss audio sound of Video.

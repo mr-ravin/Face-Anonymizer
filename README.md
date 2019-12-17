@@ -39,4 +39,4 @@ facemask.camera_mask(1,0,"outputfile.avi","maskfile_used.jpg") # 1 represents 1 
 
 ### Important: In videos it skip some frames for applying mask. And while processing Videos, it loss audio sound of Video.
 
-#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author.
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
